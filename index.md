@@ -1,4 +1,4 @@
-<img src="http://pepe.ichf.edu.pl/ochab/ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
+<img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
 
 # Anna Ochab-Marcinek, Ph. D. (dr hab.)
 
