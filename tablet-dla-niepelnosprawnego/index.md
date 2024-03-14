@@ -16,7 +16,7 @@ Gdy Andrzej zaczął używać tabletu z myszą, zrobił tym furorę w swoim ośr
 
 Zrobiłam tę stronę dla informacji i podsunięcia pomysłu innym potrzebującym osobom oraz lekarzom, fizjoterapeutom i kierownikom ośrodków rehabilitacyjnych. Byłoby dobrze, gdyby różne ośrodki zdrowia wypożyczały taki sprzęt pacjentom.
 
-[Poniżej](#spis-treści) podaję szczegółowe informacje techniczne na temat sprzętu i jego konfiguracji dla osoby z niepełnosprawnością ruchową.
+[Poniżej](#spis-treści---szczegółowe-informacje-o-sprzęcie-i-jego-konfiguracji-znajdują-się-poniżej) podaję szczegółowe informacje techniczne na temat sprzętu i jego konfiguracji dla osoby z niepełnosprawnością ruchową.
 
 Anna Ochab-Marcinek [anna.ochab.marcinek@gmail.com](mailto:anna.ochab.marcinek@gmail.com)
 
