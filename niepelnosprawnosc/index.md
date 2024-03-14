@@ -6,15 +6,9 @@ Ta strona powstała dla informacji dla osób z niepełnosprawnością ruchową i
 
 Mój szwagier Andrzej [po złamaniu kręgosłupa może ruszać tylko głową i w ograniczonym stopniu prawą ręką](https://www.siepomaga.pl/andrzej-marcinek). Nie jest w tej chwili w stanie obsługiwać ekranu dotykowego ani laptopa.
 
-Próbowałam dowiedzieć się z różnych źródeł w polskim i zagranicznym internecie, jakie rozwiązania techniczne są stosowane przez osoby z takim typem niepełnosprawności, żeby utrzymywać kontakt ze światem. Okazało się, że informacji jest niezwykle mało.
+Próbowałam dowiedzieć się z różnych źródeł w polskim i zagranicznym internecie, jakie rozwiązania techniczne są stosowane przez osoby z takim typem niepełnosprawności, żeby utrzymywać kontakt ze światem. Okazało się, że informacji jest niezwykle mało. Dlatego razem z moim bratem i mężem sami wymyśliliśmy najprostszy naszym zdaniem (i jednocześnie tani - poniżej 2000 zł) sposób na komunikację ze światem dla Andrzeja: Tablet z myszą typu trackball dla osób z niepełnosprawnością.
 
-Dlatego razem z moim bratem i mężem sami wymyśliliśmy najprostszy naszym zdaniem (i jednocześnie tani - poniżej 2000 zł) sposób na komunikację ze światem dla Andrzeja: Tablet z myszą typu trackball dla osób z niepełnosprawnością.
-
-Dzięki temu pacjent ma możliwość telefonowania, wysyłania wiadomości tekstowych i dostęp do internetu.
-
-Rozwiązanie ma tę wyższość nad laptopem, że pozwala łatwiej korzystać z telefonu, a także z usług internetowych przez różne aplikacje (filmy, podkasty, recepty i skierowania - patrz więcej w sekcji [Przydatne aplikacje](#przydatne-aplikacje)).
-
-Korzystanie z myszy bardzo wyraźnie przyśpieszyło postępy Andrzeja w rehabilitacji ręki. Dzięki tym postępom wkrótce był w stanie także nauczyć się sterować wózkiem z joystickiem.
+Dzięki temu pacjent ma możliwość telefonowania, wysyłania wiadomości tekstowych i dostęp do internetu Rozwiązanie ma tę wyższość nad laptopem, że pozwala łatwiej korzystać z telefonu, a także z usług internetowych przez różne aplikacje (filmy, podkasty, recepty i skierowania - patrz więcej w sekcji [Przydatne aplikacje](#przydatne-aplikacje)). Korzystanie z myszy bardzo wyraźnie przyśpieszyło postępy Andrzeja w rehabilitacji ręki. Dzięki tym postępom wkrótce był w stanie także nauczyć się sterować wózkiem z joystickiem.
 
 Gdy Andrzej zaczął używać tabletu z myszą, zrobił tym furorę w swoim ośrodku rehabilitacyjnym i znalazł naśladowców. To właściwie dziwne, że w wyspecjalizowanym ośrodku nikt nie miał wiedzy o takich rozwiązaniach dla pacjentów.
 
