@@ -101,7 +101,7 @@ Jest to uchwyt oryginalnie przeznaczony do montowania na oparciu fotela samochod
 - Pacjent ma obsługiwać tablet samą myszą, ponieważ nie może obsługiwać ekranu dotykowego ani sterować urządzeniem za pomocą głosu.
 - Pacjent ma obsługiwać mysz dłonią z niesprawnymi palcami. Dlatego wybraliśmy mysz z dużym trackballem (kulką do kręcenia).
 - Urządzenia powinny wymagać jak najmniej obsługi ze strony osób postronnych (brak potrzeby wymiany baterii, unikanie podłączania i odłączania ładowarki).
-- Możliwie najmniejsze zużycie energii przez urządzenia. Dlatego wybraliśmy mysz przewodową, bo mysz bezprzewodowa na Bluetooth powodowałaby szybsze rozładowywanie baterii w tablecie.
+
 
 ### Zastrzeżenie dotyczące linków do stron firm
 
@@ -168,7 +168,7 @@ Ale w tym modelu myszy przycisk znajdujący się fizycznie po prawej stronie dzi
 
 To powoduje, że trzeba dość długo czekać na na efekt kliknięcia. Może to być denerwujące. Jednak Andrzej woli to, niż normalną konfigurację przycisków i klikanie w lewy przycisk, gdyż jest on dla Andrzeja trudniej dostępny.
 
-W innym modelu myszy, [Big Track Wireless](https://www.ablenetinc.com/content/html/Downloads/Computer_Access/bigtrack_wireless_quick_start_guide.pdf), jest przełącznik sprzętowy pozwalający wyłączyć opóźnienie prawego przycisku. Jednak ten model jest obecnie niedostępny w Polsce. Jednak przede wszystkim problemem jest, że ten model jest bezprzewodowy: Po pierwsze wymaga osobnej baterii, a po drugie obawiamy się, że Bluetooth powoduje szybsze rozładowywanie się baterii w tablecie (patrz rozdział [Ewentualne inne modele myszy](#ewentualne-inne-modele-myszy)).
+W innym modelu myszy, [Big Track Wireless](https://www.ablenetinc.com/content/html/Downloads/Computer_Access/bigtrack_wireless_quick_start_guide.pdf), jest przełącznik sprzętowy pozwalający wyłączyć opóźnienie prawego przycisku. Jednak ten model jest obecnie niedostępny w Polsce. Jednak problemem jest, że ten model bezprzewodowy i wymaga osobnej baterii, a po drugie jest niedostępny w Polsce (patrz rozdział [Ewentualne inne modele myszy](#ewentualne-inne-modele-myszy)).
 
 ### Stacja dokująca
 
