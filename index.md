@@ -6,7 +6,7 @@
 
 [Google Scholar]([https://](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate)) - [ORCID]([https://](https://orcid.org/0000-0002-2462-0656)) - [ResearcherID]([https://](https://www.webofscience.com/wos/author/record/D-8322-2017))
 
-[CV](#cv) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [GitHub](#github) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/niepelnosprawnosc/) [**Contact**](#contact)
+[CV](#cv) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [GitHub](#github) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/niepelnosprawnosc/) - [**Contact**](#contact)
 
 ## CV
 
