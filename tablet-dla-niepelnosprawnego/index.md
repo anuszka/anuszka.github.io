@@ -2,7 +2,7 @@
 
 ## Streszczenie
 
-Ta strona powstała dla informacji dla osób z niepełnosprawnością ruchową i osób opiekujących się nimi, a także dla lekarzy i fizjoterapeutów.
+Ta strona została stworzona w celu dostarczenia informacji dla osób z niepełnosprawnością ruchową i osób opiekujących się nimi, a także dla lekarzy i fizjoterapeutów.
 
 Mój szwagier Andrzej [po złamaniu kręgosłupa może ruszać tylko głową i w ograniczonym stopniu prawą ręką](https://www.siepomaga.pl/andrzej-marcinek). Nie jest w tej chwili w stanie obsługiwać ekranu dotykowego ani laptopa.
 
