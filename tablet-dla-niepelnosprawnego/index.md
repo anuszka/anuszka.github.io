@@ -40,7 +40,7 @@ Andrzej ma na uszach słuchawki (opcjonalna część zestawu). Obok Andrzeja, na
 
 Jest to uchwyt oryginalnie przeznaczony do montowania na oparciu fotela samochodowego. Uchwyt został przekręcony o 90 stopni, tak, żeby opierał się o blat stolika. Nie jest to idealne rozwiązanie. Jakiś stojak na tablet byłby tutaj prawdopodobnie lepszy. Będziemy to poprawiać.
 
-## Spis treści
+## Spis treści - szczegółowe informacje o sprzęcie i jego konfiguracji znajdują się poniżej
 
 - [Tablet z myszą typu trackball: Telefon i internet dla osoby z niepełnosprawnością ruchową](#tablet-z-myszą-typu-trackball-telefon-i-internet-dla-osoby-z-niepełnosprawnością-ruchową)
   - [Streszczenie](#streszczenie)
@@ -48,7 +48,7 @@ Jest to uchwyt oryginalnie przeznaczony do montowania na oparciu fotela samochod
     - [Zdjęcie 1. Ustawienie tabletu na stoliku i myszy na łóżku](#zdjęcie-1-ustawienie-tabletu-na-stoliku-i-myszy-na-łóżku)
     - [Zdjęcie 2. Sposób podpięcia do stacji dokującej myszy, tabletu, ładowarki i (opcjonalnie) karty pamięci](#zdjęcie-2-sposób-podpięcia-do-stacji-dokującej-myszy-tabletu-ładowarki-i-opcjonalnie-karty-pamięci)
     - [Zdjęcie 3. Widok uchwytu do tabletu](#zdjęcie-3-widok-uchwytu-do-tabletu)
-  - [Spis treści](#spis-treści)
+  - [Spis treści - szczegółowe informacje o sprzęcie i jego konfiguracji znajdują się poniżej](#spis-treści---szczegółowe-informacje-o-sprzęcie-i-jego-konfiguracji-znajdują-się-poniżej)
   - [Wstęp](#wstęp)
     - [Na czym zależało nam przy wyborze rozwiązania technicznego](#na-czym-zależało-nam-przy-wyborze-rozwiązania-technicznego)
     - [Zastrzeżenie dotyczące linków do stron firm](#zastrzeżenie-dotyczące-linków-do-stron-firm)
