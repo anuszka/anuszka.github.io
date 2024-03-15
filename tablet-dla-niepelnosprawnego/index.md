@@ -4,7 +4,7 @@
 
 Ta strona została stworzona w celu dostarczenia informacji dla osób z niepełnosprawnością ruchową i osób opiekujących się nimi, a także dla lekarzy i fizjoterapeutów.
 
-Mój szwagier Andrzej [po złamaniu kręgosłupa może ruszać tylko głową i w ograniczonym stopniu prawą ręką](https://www.siepomaga.pl/andrzej-marcinek). Nie jest w tej chwili w stanie obsługiwać ekranu dotykowego ani laptopa.
+Mój szwagier Andrzej [po złamaniu kręgosłupa może ruszać tylko głową i w ograniczonym stopniu prawą ręką](https://www.siepomaga.pl/andrzej-marcinek). Nie jest w tej chwili w stanie obsługiwać ekranu dotykowego ani laptopa, również nie może sterować urządzeniami za pomocą głosu.
 
 Próbowałam dowiedzieć się z różnych źródeł w polskim i zagranicznym internecie, jakie rozwiązania techniczne są stosowane przez osoby z takim typem niepełnosprawności, żeby utrzymywać kontakt ze światem. Okazało się, że informacji jest niezwykle mało. 
 
