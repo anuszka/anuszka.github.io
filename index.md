@@ -72,7 +72,7 @@ From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary 
 
 [Our position papers](https://pan.pl/en/category/covid-19/)
 
-[Archive of my epidemiological data analyses](http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See also [GitHub](#github).
+[Archive of my epidemiological data analyses](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See also [GitHub](#github).
 
 #### Publications (not peer-reviewed)
 
@@ -87,7 +87,7 @@ From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary 
 ## GitHub
 
 * [anuszka/COVID-19-MZ\_GOV\_PL](https://github.com/anuszka/COVID-19-MZ_GOV_PL): COVID-19 statistics for Poland, taken from the Twitter of the Polish Ministry of Health.  
-    My plots and comments on these data are here: [http://soft.ichf.edu.pl/ochab/coronavirus\_poland/](http://soft.ichf.edu.pl/ochab/coronavirus_poland/)
+    My plots and comments on these data are here: [https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/)
 
 ## Patents
 
@@ -95,11 +95,12 @@ From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary 
 
 ## Grants
 
+* 5.2017-5.2023: National Science Centre Sonata Bis 6 project no. 2016/22/E/ST2/00558 [Evolution of gene regulation as a stochastic process: Savageau's demand theory, cost of regulation and noise](http://groups.ichf.edu.pl/ochab/funding/view?id=52&name=NCN+Sonata+Bis+6%3A++Evolution+of+gene+regulation+as+a+stochastic+process%3A+Savageau%27s+demand+theory%2C+cost+of+regulation+and+noise+%2815.5.2017-14.5.2023%29)
 * 7.2013-7.2015: Ministry of Science Iuventus Plus project no. 0501/IP1/2013/72
-[Theoretical study of conditions for precise gene regulation in a 2-gene cascade with autoregulation](http://soft.ichf.edu.pl/ochab/iuventus.html)
+[Theoretical study of conditions for precise gene regulation in a 2-gene cascade with autoregulation](http://groups.ichf.edu.pl/ochab/funding/view?id=7&name=+Iuventus+Plus%3A+Theoretical+study+of+conditions+for+precise+gene+regulation+in+a+2-gene+cascade+with+autoregulation+%287.2013-7.2015%29)
 * 12.2011- 12.2014: National Science Centre Sonata project no. 2011/01/D/ST3/00751
-[Transition from nano- to macroviscosity in diffusion of nanoparticles in a crowded environment: Theoretical and experimental study of the depletion layer effect](http://soft.ichf.edu.pl/ochab/ncn.html)
-* 5.2017-5.2023: National Science Centre Sonata Bis 6 project no. 2016/22/E/ST2/00558 [Evolution of gene regulation as a stochastic process: Savageau's demand theory, cost of regulation and noise](http://soft.ichf.edu.pl/ochab/sonatabis6.html)
+[Transition from nano- to macroviscosity in diffusion of nanoparticles in a crowded environment: Theoretical and experimental study of the depletion layer effect](http://groups.ichf.edu.pl/ochab/funding/view?id=8&name=NCN+Sonata%3A+Transition+from+nano-+to+macroviscosity+in+diffusion+of+nanoparticles+in+a+crowded+environment%3A+Theoretical+and+experimental+study+of+the+depletion+layer+effect+%2812.2011-+12.2014%29)
+
 
 ## Popular science  
   
