@@ -18,7 +18,7 @@ keywords:
 
 [Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland
 
-[Google Scholar]([https://](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate)) - [ORCID]([https://](https://orcid.org/0000-0002-2462-0656)) - [ResearcherID]([https://](https://www.webofscience.com/wos/author/record/D-8322-2017))
+[Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
 [CV](#cv) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [GitHub](#github) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
