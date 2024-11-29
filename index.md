@@ -10,7 +10,7 @@
 
 ## CV
 
-[CV (pdf)](http://pepe.ichf.edu.pl/ochab/Anna_Ochab-Marcinek_CV_short.pdf)
+[CV (pdf)](./Anna_Ochab-Marcinek_CV_short.pdf)
 
 ## Research
 
