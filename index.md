@@ -51,7 +51,7 @@ keywords:
 14. A. Ochab-Marcinek, R. Hołyst, [Scale-dependent diffusion of spheres in solutions of flexible and rigid polymers: mean square displacement and autocorrelation function for FCS and DLS measurements](https://doi.org/10.1039/C1SM05217A) , Soft Matter 2011, 7, 7366-7374  
 15. A. Ochab-Marcinek, M. Tabaka, [Bimodal gene expression in noncooperative regulatory systems](http://www.pnas.org/content/107/51/22096) , PNAS 107(51) (2010) 22096-22101
 16. A. Ochab-Marcinek, [Extrinsic noise passing through a Michaelis-Menten reaction: A universal response of a genetic switch](http://dx.doi.org/10.1016/j.jtbi.2009.12.028), J. Theor. Biol. 263(4) (2010) 510-520 \[arxiv [preprint](http://arxiv.org/pdf/0905.3502v2)\]
-17. A. Ochab-Marcinek, E. Gudowska-Nowak, E. Nasonova, S. Ritter, [Modelling radiation-induced cell cycle delays](http://www.springerlink.com/content/l33041651m10815w/fulltext.pdf), Rad. Env. Biophys. 48(4) (2009) 361 \[arxiv [preprint](http://arxiv.org/pdf/0907.3840)]
+17. A. Ochab-Marcinek, E. Gudowska-Nowak, E. Nasonova, S. Ritter, [Modelling radiation-induced cell cycle delays](https://link.springer.com/article/10.1007/s00411-009-0239-7), Rad. Env. Biophys. 48(4) (2009) 361 \[arxiv [preprint](http://arxiv.org/pdf/0907.3840)]
 18. A. Ochab-Marcinek, G. Schmid, I. Goychuk, P. Hanggi, [Noise-assisted spike propagation in myelinated neurons](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.79.011904), Phys. Rev. E 79, 011904 (2009) \[arxiv [preprint](http://arxiv.org/pdf/0811.3371)\]
 19. A. Fiasconaro, A. Ochab-Marcinek, B. Spagnolo, E. Gudowska-Nowak, [Monitoring noise-resonant effects in cancer growth influenced by external fluctuations and periodic treatment](http://link.springer.com/article/10.1140/epjb/e2008-00246-2), Eur. Phys. J. B 65, 435-442 (2008) \[arxiv [preprint](http://arxiv.org/pdf/0710.1317)\]
 20. Anna Ochab-Marcinek, [Predicting the asymmetric response of a genetic switch to noise](http://dx.doi.org/10.1016/j.jtbi.2008.04.032), J. Theor. Biol. 254 (2008) 37-44 \[arxiv [preprint](http://arxiv.org/pdf/0804.4218)\]
@@ -59,11 +59,11 @@ keywords:
 22. Anna Ochab-Marcinek, Alessandro Fiasconaro, Ewa Gudowska-Nowak, Bernardo Spagnolo, [Coexistence of resonant activation and noise-enhanced stability in a model of tumor-host interaction: Statistics of extinction times.](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=37&page=1651) Acta Physica Polonica B 37(5) 2006, 1651.
 23. Alessandro Fiasconaro, Bernardo Spagnolo, Anna Ochab-Marcinek, Ewa Gudowska- Nowak, [Co-occurrence of resonant activation and noise-enhanced stability in a model of cancer growth in the presence of immune response](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.041904). Physical Review E 74, 041904 (2006)  
     \[arxiv [preprint](http://arxiv.org/pdf/q-bio.PE/0602015)\]
-24. Anna Ochab-Marcinek: [Transient pattern formation in a stochastic model of cancer growth](http://ejournals.wspc.com.sg/fnl/05/0502/S0219477505002732.html), Fluctuation and Noise Letters 5(2) (2005) L331  
+24. Anna Ochab-Marcinek: [Transient pattern formation in a stochastic model of cancer growth](https://doi.org/10.1142/S0219477505002732), Fluctuation and Noise Letters 5(2) (2005) L331  
     \[arxiv [preprint](http://arxiv.org/pdf/q-bio.CB/0512006)\]
 25. Anna Ochab-Marcinek: [Pattern formation in a stochastic model of cancer growth](http://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=36&page=1963) , Acta Physica Polonica B 36(6) (2005) 1963  
     \[arxiv [preprint](http://arxiv.org/pdf/q-bio.CB/0501007)\]
-26. Anna Ochab-Marcinek, Ewa Gudowska-Nowak: [Population growth and control in stochastic models of cancer development](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TVG-4CVR4VN-1&_coverDate=11%2F15%2F2004&_alid=317698359&_rdoc=1&_fmt=&_orig=search&_qd=1&_cdi=5534&_sort=d&view=c&_acct=C000059473&_version=1&_urlVersion=0&_userid=3030198&md5=7e8e51b1a2c43f0a367c6611bb64de9b), Physica A, 343 (2004) 557-572  
+26. Anna Ochab-Marcinek, Ewa Gudowska-Nowak: [Population growth and control in stochastic models of cancer development](https://doi.org/10.1016/j.physa.2004.06.071), Physica A, 343 (2004) 557-572  
     \[arxiv [preprint](http://arxiv.org/pdf/q-bio.PE/0403041)\]
 
 ## COVID-19 Advisory Team to the President of the Polish Academy of Sciences  
