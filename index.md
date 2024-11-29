@@ -1,3 +1,17 @@
+---
+title: "Anna Ochab-Marcinek"
+description: "Home page"
+keywords:
+  - Anna Ochab-Marcinek, Ph. D. (dr hab.)
+  - Physicist
+  - Theoretical Biophysics
+  - Quantitative Biology
+  - Theoretical Biology
+  - Software development for automated recognition of bacteria in microscopic images
+  - C++
+  - Python
+---
+
 <img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
 
 # Anna Ochab-Marcinek, Ph. D. (dr hab.)
