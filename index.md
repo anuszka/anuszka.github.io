@@ -7,9 +7,23 @@ keywords:
   - Theoretical Biophysics
   - Quantitative Biology
   - Theoretical Biology
-  - Software development for automated recognition of bacteria in microscopic images
+  - Software development for automated detection of bacteria in microscopic images
   - C++
   - Python
+  - Machine Learning (Tensorflow, PyTorch)
+  - Image Analysis
+  - Unix/Linux shell scripting
+  - C
+  - Fortran
+  - HTML
+  - CSS
+  - php
+  - JavaScript
+  - SQL
+  - R
+  - Arduino C++ programming
+  - Git
+  - Jira
 ---
 
 <img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
@@ -20,11 +34,58 @@ keywords:
 
 [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
-[CV](#cv) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [GitHub](#github) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
+[CV](#cv) - [Programming](#programming) - [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
 ## CV
 
 [CV (pdf)](./Anna_Ochab-Marcinek_CV_short.pdf)
+
+## Programming
+
+Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries.
+
+### Primary experience
+
+- C++
+- Python
+- Machine Learning (Tensorflow, PyTorch)
+- Image Analysis
+- Unix/Linux shell scripting
+
+### Also experience with
+
+- C
+- Fortran
+- HTML
+- CSS
+- php
+- JavaScript
+- SQL
+
+### Exposure to
+
+- R
+- Arduino C++ programming
+
+## Tools
+
+- Git
+- Jira
+
+## Mathematical software
+
+- Maple
+
+### Also experience with
+
+- Mathematica
+- Matlab
+
+## GitHub
+
+* Some repositories for research projects are not yet public because the results have not yet been published.
+* [anuszka/COVID-19-MZ\_GOV\_PL](https://github.com/anuszka/COVID-19-MZ_GOV_PL): COVID-19 statistics for Poland, taken from the Twitter of the Polish Ministry of Health.  
+    My plots and comments on these data are here: [http://soft.ichf.edu.pl/ochab/coronavirus\_poland/](http://soft.ichf.edu.pl/ochab/coronavirus_poland/)
 
 ## Research
 
@@ -83,11 +144,6 @@ From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary 
 3. J. Duszyński, A. Afelt, M. Kossowska, A. Ochab-Marcinek, R. Owczuk, W. Paczos, A. Plater-Zyberk, K. Pyrć, M. Rosińska, A. Rychard, T. Smiatacz, [Kroniki Pandemii: lata 2020-2021](https://journals.pan.pl/dlibra/show-content?id=123013), ACADEMIA - magazyn Polskiej Akademii Nauk 4(68) 2021 pp. 1-118, DOI:[10.24425/academiaPAN.2021.140621](http://dx.doi.org/10.24425/academiaPAN.2021.140621)
 
 4. J. Duszyński, A. Afelt, M. Kossowska, A. Ochab-Marcinek, R. Owczuk, W. Paczos, A. Plater-Zyberk, K. Pyrć, M. Rosińska, A. Rychard, T. Smiatacz, [Chronicles of a Pandemic](https://journals.pan.pl/dlibra/show-content?id=123843), ACADEMIA - The magazine of the Polish Academy of Sciences 4(72) 2021 pp. 1-120
-
-## GitHub
-
-* [anuszka/COVID-19-MZ\_GOV\_PL](https://github.com/anuszka/COVID-19-MZ_GOV_PL): COVID-19 statistics for Poland, taken from the Twitter of the Polish Ministry of Health.  
-    My plots and comments on these data are here: [https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/)
 
 ## Patents
 
