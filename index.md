@@ -47,7 +47,7 @@ Currently working on software development for automated detection of bacteria in
 
 Previously, programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: Gene expression, cancer growth. 
 
-Also, web scraping and image recognition project for epidemiological data retrieval during COVID-19 pandemic (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
+Also, epidemiological data analysis project during COVID‑19 pandemic. The project included web scraping,mage recognition, and calculation of the statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
 
 ### Primary experience
 
