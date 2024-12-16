@@ -24,6 +24,7 @@ keywords:
   - Arduino C++ programming
   - Git
   - Jira
+  - Jupyter
 ---
 
 <img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
@@ -34,7 +35,7 @@ keywords:
 
 [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
-[CV](#cv) - [Programming](#programming) - [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
+[CV](#cv) - [Programming](#programming) - [Experience with scientific tools and software](#experience-with-scientific-tools-and-software)- [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
 ## CV
 
@@ -44,11 +45,15 @@ keywords:
 
 Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries.
 
+Previously, programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: Gene expression, cancer growth. 
+
+Also, web scraping and image recognition project for epidemiological data retrieval during COVID-19 pandemic (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
+
 ### Primary experience
 
 - C++
 - Python
-- Machine Learning (Tensorflow, PyTorch)
+- Machine Learning libraries (Tensorflow, PyTorch)
 - Image Analysis
 - Unix/Linux shell scripting
 
@@ -67,19 +72,19 @@ Currently working on software development for automated detection of bacteria in
 - R
 - Arduino C++ programming
 
-## Tools
+### Programming tools
 
 - Git
 - Jira
+- Jupyter
 
-## Mathematical software
+## Experience with scientific tools and software
 
-- Maple
+- Symbolic algebra packages: Maple, Mathematica, Matlab
+- LaTeX
+- Scientific graphing and data analysis software: Origin, Gnuplot, Grace
+- Computer graphics software: Adobe Photoshop, Corel, Gimp etc.
 
-### Also experience with
-
-- Mathematica
-- Matlab
 
 ## GitHub
 
@@ -135,7 +140,7 @@ From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary 
 
 [Archive of my epidemiological data analyses](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See also [GitHub](#github).
 
-#### Publications (not peer-reviewed)
+#### Publications (non peer-reviewed)
 
 1. J. Duszyński, A. Afelt, A. Ochab-Marcinek, R. Owczuk, K. Pyrć, M. Rosińska, A. Rychard, T. Smiatacz, [Zrozumieć COVID-19](https://journals.pan.pl/dlibra/doccontent?id=119068), ACADEMIA - magazyn Polskiej Akademii Nauk 4 (64) 2020 pp. 1-80, DOI:[10.24425/academiaPAN.2020.136169](http://dx.doi.org/10.24425/academiaPAN.2020.136169)
 
