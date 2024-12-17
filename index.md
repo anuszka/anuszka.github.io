@@ -1,6 +1,6 @@
 ---
 title: "Anna Ochab-Marcinek"
-description: "Home page"
+description: "Homepage"
 keywords:
   - Anna Ochab-Marcinek, Ph. D. (dr hab.)
   - Physicist
@@ -43,7 +43,7 @@ keywords:
 
 ## Programming
 
-Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries.
+Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries. Includes non-standard methods of Point Spread Function deconvolution from the microscopic image.
 
 Previously, programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: Gene expression, cancer growth. 
 
