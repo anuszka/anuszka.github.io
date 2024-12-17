@@ -43,7 +43,7 @@ keywords:
 
 ## Programming
 
-Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries. Includes non-standard methods of Point Spread Function deconvolution from the microscopic image.
+Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries. The project also includes non-standard methods of Point Spread Function deconvolution from the microscopic image.
 
 Previously, programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: Gene expression, cancer growth. 
 
