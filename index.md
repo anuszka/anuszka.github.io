@@ -90,7 +90,8 @@ Also, epidemiological data analysis project during COVID‑19 pandemic. The proj
 
 * Some repositories for research projects are not yet public because the results have not yet been published.
 * [anuszka/COVID-19-MZ\_GOV\_PL](https://github.com/anuszka/COVID-19-MZ_GOV_PL): COVID-19 statistics for Poland, taken from the Twitter of the Polish Ministry of Health.  
-    My plots and comments on these data are here: [http://soft.ichf.edu.pl/ochab/coronavirus\_poland/](http://soft.ichf.edu.pl/ochab/coronavirus_poland/)
+    My plots and comments on these data are archived [here](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See example [page](https://web.archive.org/web/20200803055411/http://soft.ichf.edu.pl/ochab/coronavirus_poland/2020.04.20.a/koronawirus_statystyki.2020.04.20.a.html).
+
 
 ## Research
 
