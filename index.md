@@ -61,18 +61,15 @@ Also, epidemiological data analysis project during COVID‑19 pandemic. The proj
 
 - C
 - Fortran
-- HTML
-- CSS
-- php
-- JavaScript
-- SQL
+- HTML, CSS, JavaScript, php
+- mySQL
 
 ### Exposure to
 
 - R
 - Arduino C++ programming
 
-### Programming tools
+### Software development tools
 
 - Git
 - Jira
