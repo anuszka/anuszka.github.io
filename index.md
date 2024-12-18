@@ -2,7 +2,7 @@
 title: "Anna Ochab-Marcinek"
 description: "Homepage"
 keywords:
-  - Anna Ochab-Marcinek, Ph. D. (dr hab.)
+  - Anna Ochab-Marcinek, Ph.D. (dr hab.)
   - Physicist
   - Theoretical Biophysics
   - Quantitative Biology
@@ -29,27 +29,27 @@ keywords:
 
 <img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
 
-# Anna Ochab-Marcinek, Ph. D. (dr hab.)
+# Anna Ochab-Marcinek, Ph.D. (Dr. hab.)
 
 [Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland
 
 [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
-[CV](#cv) - [Programming](#programming) - [Experience with scientific tools and software](#experience-with-scientific-tools-and-software)- [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular science](#popular-science) - [Tablet for a person with a mobility impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
+[CV](#cv) - [Programming](#programming) - [Experience with Scientific Tools and Software](#experience-with-scientific-tools-and-software) - [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
 ## CV
 
-[CV (pdf)](./Anna_Ochab-Marcinek_CV_short.pdf)
+[CV (PDF)](./Anna_Ochab-Marcinek_CV_short.pdf)
 
 ## Programming
 
-Currently working on software development for automated detection of bacteria in microscopic images using the machine learning and image analysis libraries. The project also includes non-standard methods of Point Spread Function deconvolution from the microscopic image.
+Currently working on software development for automated detection of bacteria in microscopic images using machine learning and image analysis libraries. The project also includes non-standard methods of Point Spread Function deconvolution from the microscopic image.
 
-Previously, programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: Gene expression, cancer growth. 
+Previously, I worked on programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: gene expression, cancer growth.
 
-Also, epidemiological data analysis project during COVID‑19 pandemic. The project included web scraping, image recognition, and calculation of the statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
+Also, I worked on an epidemiological data analysis project during the COVID-19 pandemic. The project included web scraping, image recognition, and calculation of statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
 
-### Primary experience
+### Experience
 
 - C++
 - Python
@@ -57,12 +57,12 @@ Also, epidemiological data analysis project during COVID‑19 pandemic. The proj
 - Image Analysis
 - Unix/Linux shell scripting
 
-### Also experience with
+### Knowledge of
 
 - C
 - Fortran
-- HTML, CSS, JavaScript, php
-- mySQL
+- HTML, CSS, JavaScript, PHP
+- MySQL
 
 ### Exposure to
 
@@ -92,7 +92,7 @@ Also, epidemiological data analysis project during COVID‑19 pandemic. The proj
 
 ## Research
 
-* Software development for automated recognition of bacteria in microscopic images
+* Software development for automated detection of bacteria in microscopic images
 * Modeling of biological evolution
 * Stochastic gene expression
 * Diffusion in a crowded environment
@@ -132,13 +132,13 @@ Also, epidemiological data analysis project during COVID‑19 pandemic. The proj
 
 ## COVID-19 Advisory Team to the President of the Polish Academy of Sciences  
 
-From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary [COVID-19 Advisory Team](https://pan.pl/en/covid-19/) attached to the President of the Polish Academy of Sciences. Our task was to monitor the course of the COVID-19 epidemic in Poland, analyze and predict its possible scenarios, and make recommendations. We also established contacts with similar teams in other countries in order to exchange experiences.
+From June 30, 2020 to December 31, 2022, I was a member of the interdisciplinary [COVID-19 Advisory Team](https://pan.pl/en/covid-19/) attached to the President of the Polish Academy of Sciences. Our task was to monitor the course of the COVID-19 epidemic in Poland, analyze and predict its possible scenarios, and make recommendations. We also established contacts with similar teams in other countries in order to exchange experiences.
 
 [Our position papers](https://pan.pl/en/category/covid-19/)
 
 [Archive of my epidemiological data analyses](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See also [GitHub](#github).
 
-#### Publications (non peer-reviewed)
+#### Non-peer-reviewed publications
 
 1. J. Duszyński, A. Afelt, A. Ochab-Marcinek, R. Owczuk, K. Pyrć, M. Rosińska, A. Rychard, T. Smiatacz, [Zrozumieć COVID-19](https://journals.pan.pl/dlibra/doccontent?id=119068), ACADEMIA - magazyn Polskiej Akademii Nauk 4 (64) 2020 pp. 1-80, DOI:[10.24425/academiaPAN.2020.136169](http://dx.doi.org/10.24425/academiaPAN.2020.136169)
 
@@ -186,8 +186,6 @@ Popular science blogs
 **E-mail:** [ochab@ichf.edu.pl](mailto:ochab@ichf.edu.pl)
 
 **Phone:** +48 22 343 2171
-
-<!-- **Fax:** +48 22 343 3333, +48 22 632 5276 -->
 
 **Office:** Dioscuri Centre, Building 9
 
