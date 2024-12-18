@@ -161,6 +161,7 @@ From June 30, 2020 to December 31, 2022 I was a member of the interdisciplinary 
 [Theoretical study of conditions for precise gene regulation in a 2-gene cascade with autoregulation](http://groups.ichf.edu.pl/ochab/funding/view?id=7&name=+Iuventus+Plus%3A+Theoretical+study+of+conditions+for+precise+gene+regulation+in+a+2-gene+cascade+with+autoregulation+%287.2013-7.2015%29)
 * 12.2011- 12.2014: National Science Centre Sonata project no. 2011/01/D/ST3/00751
 [Transition from nano- to macroviscosity in diffusion of nanoparticles in a crowded environment: Theoretical and experimental study of the depletion layer effect](http://groups.ichf.edu.pl/ochab/funding/view?id=8&name=NCN+Sonata%3A+Transition+from+nano-+to+macroviscosity+in+diffusion+of+nanoparticles+in+a+crowded+environment%3A+Theoretical+and+experimental+study+of+the+depletion+layer+effect+%2812.2011-+12.2014%29)
+* 12.2010-12.2011: Ministry of Science Iuventus Plus project no. IP2010 028870 _Modeling the depletion layer effect in diffusion of nanoparticles in crowded environment_
 
 
 ## Popular science  
