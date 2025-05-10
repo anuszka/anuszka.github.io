@@ -33,66 +33,47 @@ keywords:
 
 [Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland
 
-[Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
+[anuszka@GitHub](https://github.com/anuszka) - [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
-[CV](#cv) - [Programming](#programming) - [Experience with Scientific Tools and Software](#experience-with-scientific-tools-and-software) - [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
+[CV](#cv) - [Programming experience](#programming-experience) - [Programming skills](#programming-skills) - [Experience with Scientific Tools and Software](#experience-with-scientific-tools-and-software) - [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
 ## CV
 
-[CV (PDF)](./Anna_Ochab-Marcinek_CV_short.pdf)
+[CV (PDF)](./Anna_Ochab-Marcinek_CV.pdf)
 
-## Programming
+## Programming experience
 
-Currently working on software development for automated detection of bacteria in microscopic images using machine learning and image analysis libraries. The project also includes non-standard methods of Point Spread Function deconvolution from the microscopic image.
+Developed the software (Python) for automated detection and analysis of bacterial clusters in microscopic 3-D images.
+
+Developed the methods for deconvolution of the point spread function from the microscopic 3-D image using non-traditional  machine learning (optimization by differentiable rendering).
 
 Previously, I worked on programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: gene expression, cancer growth.
 
 Also, I worked on an epidemiological data analysis project during the COVID-19 pandemic. The project included web scraping, image recognition, and calculation of statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
 
-### Experience
+See [CV](./Anna_Ochab-Marcinek_CV.pdf) for more details on my projects.
 
-- C++
-- Python
-- Machine Learning libraries (Tensorflow, PyTorch)
-- Image Analysis
-- Unix/Linux shell scripting
+## Programming skills
 
-### Knowledge of
+**I am particularly experienced in**: Python, optimization using machine learning libraries (Tensorflow, PyTorch), image analysis, C++, Unix/Linux shell scripting, Git, Jira, Jupyter, Maple.
 
-- C
-- Fortran
-- HTML, CSS, JavaScript, PHP
-- MySQL
+**I have knowledge of**: Machine learning, unit testing, mySQL, HTML, CSS, JavaScript, PHP, C, Fortran, Mathematica, Matlab.
 
-### Exposure to
+**I have been exposed to**: R, Arduino C++ programming.
 
-- R
-- Arduino C++ programming
-
-### Software development tools
-
-- Git
-- Jira
-- Jupyter
-
-## Experience with scientific tools and software
-
-- Symbolic algebra packages: Maple, Mathematica, Matlab
-- LaTeX
-- Scientific graphing and data analysis software: Origin, Gnuplot, Grace
-- Computer graphics software: Adobe Photoshop, Corel, Gimp etc.
-
+**I use the operating systems**: Linux (system administration), Windows.
 
 ## GitHub
 
-* Some repositories for research projects are not yet public because the results have not yet been published.
+* My GitHub account: [anuszka@GitHub](https://github.com/anuszka)
+* Some repositories for research projects are not yet public because the results have not been published.
 * [anuszka/COVID-19-MZ\_GOV\_PL](https://github.com/anuszka/COVID-19-MZ_GOV_PL): COVID-19 statistics for Poland, taken from the Twitter of the Polish Ministry of Health.  
     My plots and comments on these data are archived [here](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See example [page](https://web.archive.org/web/20200803055411/http://soft.ichf.edu.pl/ochab/coronavirus_poland/2020.04.20.a/koronawirus_statystyki.2020.04.20.a.html).
 
 
 ## Research
 
-* Software development for automated detection of bacteria in microscopic images
+* Software development for automated detection and analysis of bacterial clusters in microscopic 3-D images
 * Modeling of biological evolution
 * Stochastic gene expression
 * Diffusion in a crowded environment
