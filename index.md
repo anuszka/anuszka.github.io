@@ -39,7 +39,7 @@ keywords:
 
 ## CV
 
-[CV (PDF)](./Anna_Ochab-Marcinek_CV.pdf)
+[CV (PDF)](./Anna_Ochab-Marcinek_CV_podpisany.pdf)
 
 ## Programming experience
 
