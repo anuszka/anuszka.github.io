@@ -43,25 +43,26 @@ keywords:
 
 ## Programming experience
 
-Developed the software (Python) for automated detection and analysis of bacterial clusters in microscopic 3-D images.
+* I developed Machine Learning models for Raman spectra classification (Python: PyTorch, scikit-learn).
 
-Developed the methods for deconvolution of the point spread function from the microscopic 3-D image using non-traditional  machine learning (optimization by differentiable rendering).
+* I statistically analysed Raman hyperspectral imagery of infected pseudo-tissues in order to identify the hallmarks of bacteria (Python; data preprocessing, Principal Component Analysis, NFINDR unmixing, Kullback-Leibler divergence).
 
-Previously, I worked on programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: gene expression, cancer growth.
+* I developed the software for automated detection and analysis of bacterial clusters in microscopic 3-D images (Python).
 
-Also, I worked on an epidemiological data analysis project during the COVID-19 pandemic. The project included web scraping, image recognition, and calculation of statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)).
+* I developed the methods for deconvolution of the point spread function from the microscopic 3-D image using non-traditional  machine learning (optimization by differentiable rendering). (Python: PyTorch, TensorFlow.)
+
+* Previously, I worked on programming projects for numerical modeling of stochastic systems in biophysics and biochemistry: gene expression, cancer growth (C++).
+
+* Also, I worked on an epidemiological data analysis project during the COVID-19 pandemic. The project included web scraping, image recognition, and calculation of statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)). (Python.)
 
 See [CV](./Anna_Ochab-Marcinek_CV.pdf) for more details on my projects.
 
-## Programming skills
+## Skills
 
-**I am particularly experienced in**: Python, optimization using machine learning libraries (Tensorflow, PyTorch), image analysis, C++, Unix/Linux shell scripting, Git, Jira, Jupyter, Maple.
-
-**I have knowledge of**: Machine learning, unit testing, mySQL, HTML, CSS, JavaScript, PHP, C, Fortran, Mathematica, Matlab.
-
-**I have been exposed to**: R, Arduino C++ programming.
-
-**I use the operating systems**: Linux (system administration), Windows.
+*  Python, C++, Linux shell scripting, Machine Learning,  optimization, image analysis, unit testing, Git, Jira, Jupyter, Maple.
+*  mySQL, HTML, CSS, JavaScript, PHP, C, Fortran, Mathematica.
+*  Have been exposed to: R, Arduino C++ programming, Matlab.
+*  Strong analytical skills.
 
 ## GitHub
 
@@ -73,6 +74,8 @@ See [CV](./Anna_Ochab-Marcinek_CV.pdf) for more details on my projects.
 
 ## Research
 
+* Statistical analysis of Raman hyperspectral imagery, classification of spectra using Machine Learning
+* Methods for deconvolution of the point spread function from the microscopic 3-D image using non-traditional  machine learning (optimization by differentiable rendering)
 * Software development for automated detection and analysis of bacterial clusters in microscopic 3-D images
 * Modeling of biological evolution
 * Stochastic gene expression
