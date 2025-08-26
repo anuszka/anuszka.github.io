@@ -55,7 +55,7 @@ keywords:
 
 * Also, I worked on an epidemiological data analysis project during the COVID-19 pandemic. The project included web scraping, image recognition, and calculation of statistics (see [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) and [GitHub](#github)). (Python.)
 
-See [CV](./Anna_Ochab-Marcinek_CV.pdf) for more details on my projects.
+See [CV](./Anna_Ochab-Marcinek_CV_signed.pdf) for more details on my projects.
 
 ## Skills
 
