@@ -31,7 +31,7 @@ keywords:
 
 # Anna Ochab-Marcinek, Ph.D. (Dr. hab.)
 
-[Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland
+<!-- [Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland -->
 
 [anuszka@GitHub](https://github.com/anuszka) - [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
@@ -167,9 +167,9 @@ Popular science blogs
 
 ## Contact
 
-**E-mail:** [ochab@ichf.edu.pl](mailto:ochab@ichf.edu.pl)
+**E-mail:** [anna.ochab.marcinek@gmail.com](mailto:anna.ochab.marcinek@gmail.com)
 
-**Phone:** +48 22 343 2171
+<!-- **Phone:** +48 22 343 2171
 
 **Office:** Dioscuri Centre, Building 9
 
@@ -183,4 +183,4 @@ ul. Kasprzaka 44/52
 
 01-224 Warsaw
 
-Poland
+Poland -->
