@@ -29,13 +29,13 @@ keywords:
 
 <img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
 
-# Anna Ochab-Marcinek, Ph.D. (Dr. hab.)
+# Anna Ochab-Marcinek, Ph.D., D.Sc.
 
 <!-- [Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland -->
 
 [anuszka@GitHub](https://github.com/anuszka) - [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
 
-[CV](#cv) - [Programming experience](#programming-experience) - [Programming skills](#programming-skills) - [GitHub](#github) - [Research](#research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
+[CV](#cv) - [Programming experience](#programming-experience) - [Programming skills](#programming-skills) - [GitHub](#github) - [Previous research](#previous-research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
 ## CV
 
@@ -72,7 +72,7 @@ See [CV](./Anna_Ochab-Marcinek_CV_signed.pdf) for more details on my projects.
     My plots and comments on these data are archived [here](https://web.archive.org/web/20231207090158/http://soft.ichf.edu.pl/ochab/coronavirus_poland/). See example [page](https://web.archive.org/web/20200803055411/http://soft.ichf.edu.pl/ochab/coronavirus_poland/2020.04.20.a/koronawirus_statystyki.2020.04.20.a.html).
 
 
-## Research
+## Previous research
 
 * Statistical analysis of Raman hyperspectral imagery, classification of spectra using Machine Learning
 * Methods for deconvolution of the point spread function from the microscopic 3-D image using non-traditional  machine learning (optimization by differentiable rendering)
