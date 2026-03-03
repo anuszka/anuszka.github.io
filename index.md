@@ -33,7 +33,7 @@ keywords:
 
 <!-- [Dioscuri Centre for Physics and Chemistry of Bacteria](https://ichf.edu.pl/groups/dioscuri-centre-for-physics-and-chemistry-of-bacteria), [Institute of Physical Chemistry, Polish Academy of Sciences](http://www.ichf.edu.pl/), Warsaw, Poland -->
 
-[anuszka@GitHub](https://github.com/anuszka) - [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017)
+[anuszka@GitHub](https://github.com/anuszka) - [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017) - [LinkedIn](https://www.linkedin.com/in/annaochabmarcinek/)
 
 [CV](#cv) - [Programming experience](#programming-experience) - [Programming skills](#programming-skills) - [GitHub](#github) - [Previous research](#previous-research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
