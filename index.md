@@ -25,6 +25,7 @@ keywords:
   - Git
   - Jira
   - Jupyter
+  - Gurobi
 ---
 
 <img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
@@ -35,12 +36,22 @@ keywords:
 
 [anuszka@GitHub](https://github.com/anuszka) - [Google Scholar](https://scholar.google.pl/citations?hl=en&user=9NTn4X8AAAAJ&view_op=list_works&sortby=pubdate) - [ORCID](https://orcid.org/0000-0002-2462-0656) - [ResearcherID](https://www.webofscience.com/wos/author/record/D-8322-2017) - [LinkedIn](https://www.linkedin.com/in/annaochabmarcinek/)
 
-[CV](#cv) - [Programming experience](#programming-experience) - [Programming skills](#programming-skills) - [GitHub](#github) - [Previous research](#previous-research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
+[CV](#cv) - [Current experience](#current-experience) - [Programming experience](#programming-experience) - [Programming skills](#programming-skills) - [GitHub](#github) - [Previous research](#previous-research) - [Publications](#publications) - [COVID-19](#covid-19-advisory-team-to-the-president-of-the-polish-academy-of-sciences) - [Patents](#patents) - [Grants](#grants) - [Popular Science](#popular-science) - [Tablet for a Person with a Mobility Impairment (PL)](https://anuszka.github.io/tablet-dla-niepelnosprawnego/) - [**Contact**](#contact)
 
 ## CV
 
 [CV (PDF)](./Anna_Ochab-Marcinek_CV_signed.pdf)
 
+## Current experience
+
+- I work at the National Centre for Energy Analysis (NCAE) within PSE. 
+  - NCAE is an analytical and technological centre established by the operators of strategic energy infrastructure: PSE (lead role), Gaz-System, and PERN.
+
+- I worked on technical documentation of the software ZefirLib for Local Governments | Python (Gurobi) | Nov 2025 - Present
+
+  * I analyzed ZefirLib software and authored parts of technical documentation sections to address existing gaps.
+  * I coordinated team contributions to user-friendly documentation version since Feb 2026.
+    
 ## Programming experience
 
 * I developed Machine Learning models for Raman spectra classification (Python: PyTorch, scikit-learn).
@@ -59,7 +70,7 @@ See [CV](./Anna_Ochab-Marcinek_CV_signed.pdf) for more details on my projects.
 
 ## Skills
 
-*  Python, C++, Linux shell scripting, Machine Learning,  optimization, image analysis, unit testing, Git, Jira, Jupyter, Maple.
+*  Python, C++, Linux shell scripting, Machine Learning,  optimization, image analysis, unit testing, Git, Jira, Jupyter, Maple, Gurobi.
 *  mySQL, HTML, CSS, JavaScript, PHP, C, Fortran, Mathematica.
 *  Have been exposed to: R, Arduino C++ programming, Matlab.
 *  Strong analytical skills.
