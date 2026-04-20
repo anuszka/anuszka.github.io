@@ -47,7 +47,7 @@ keywords:
 - I work at the National Centre for Energy Analysis (NCAE) within PSE. 
   - NCAE is an analytical and technological centre established by the operators of strategic energy infrastructure: PSE (lead role), Gaz-System, and PERN.
 
-- I worked on technical documentation of the software ZefirLib for Local Governments | Python (Gurobi) | Nov 2025 - Present
+- I worked on technical documentation of the software ZefirLib for Local Governments (Python; Gurobi): Nov 2025 - Present
 
   * I analyzed ZefirLib software and authored parts of technical documentation sections to address existing gaps.
   * I coordinated team contributions to user-friendly documentation version since Feb 2026.
