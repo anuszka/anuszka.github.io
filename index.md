@@ -50,6 +50,8 @@ I work at the National Centre for Energy Analysis (NCAE) within Polskie Sieci El
 
   * I analyzed ZefirLib software and authored parts of technical documentation sections to address existing gaps.
   * I coordinated team contributions to user-friendly documentation version since Feb 2026.
+ 
+- I built experience in Zefir model input preparation and results analysis. I automated preprocessing, execution, and postprocessing workflows (Bash, Python, Excel Visual Basic); May 2026 - Present.
     
 ## Programming experience
 
