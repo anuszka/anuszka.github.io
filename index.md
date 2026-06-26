@@ -28,7 +28,7 @@ keywords:
   - Gurobi
 ---
 
-<img src="ania186x186sharpen.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
+<img src="IMG_20260625_095319367_HDR.jpg" alt="Anna Ochab-Marcinek" style="height: 260px; width: 260px;">
 
 # Anna Ochab-Marcinek, Ph.D., D.Sc.
 
